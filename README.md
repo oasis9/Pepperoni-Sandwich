@@ -1,1 +1,2 @@
-# Pepperoni-Sandwich
+# Pepperoni Sandwich
+A GovHack Project
