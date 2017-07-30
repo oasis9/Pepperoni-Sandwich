@@ -39,7 +39,7 @@ pepperonisandwich.oasis9.net
 └── resources
 	├── panel.php		- Main page shown once signed in - use the hamburger menu to navigate
 	├── signin.php		- Page shown when not signed in
-	└── pages			- Pages loaded into panel via AJAX
+	└── pages		- Pages loaded into panel via AJAX
 		├── load.php	- Loading screen
 		├── home.php	- Homepage
 		├── groups.php	- Grouping example
