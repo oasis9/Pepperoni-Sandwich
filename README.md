@@ -6,7 +6,7 @@ Its primary function, derived from its name, is carpooling. It uses public trans
 
 Hence, the more people begin to use this tool, the faster transport will be, and at the same time greenhouse gas emissions will decrease.
 
-This is not a functional project but a simple prototype is contained within.
+This is not a functional project but a conceptual prototype has been the outcome of our work over the weekend.
 
 A demo is available at https://pepperonisandwich.oasis9.net, with default credentials:
 ```
