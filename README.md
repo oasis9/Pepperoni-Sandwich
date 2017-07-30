@@ -49,6 +49,7 @@ Our example panel shows a Google Map with a heatmap intended for use with traffi
 The group selection page implements a conceptual design for the analysis of different driver's paths that may be applicable to your intended direction of travel (A to B).
 
 Should we continue work on this project, the next steps would be as follows:
+```
 	* Pester governments for data
 	* Implement proper user account management systems and administration tools
 	* Place appropriate user related data on the panel page (Carpools, volunteer status)
@@ -58,6 +59,7 @@ Should we continue work on this project, the next steps would be as follows:
 	* Implement a chat system for initial communication with driver/client
 	* Mobile support
 	* Consider financially viable options for commercialising the software
+```
 
 ## Contributors
 
