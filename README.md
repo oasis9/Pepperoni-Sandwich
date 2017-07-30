@@ -20,7 +20,8 @@ Other data such as corridor access requests were unavailable due to public inacc
 This project runs on PHP, hence the PHP engine is required.
 The file tree is as such:
 
-`pepperonisandwich
+```
+pepperonisandwich
 ├── html				- Webroot
 |	├── css
 |	|	└── ...
@@ -37,7 +38,8 @@ The file tree is as such:
 		├── load.php	- Loading screen
 		├── home.php	- Homepage
 		├── groups.php	- Grouping example
-		└── 404.php		- ERROR ── Hacking too much time!`
+		└── 404.php		- ERROR ── Hacking too much time!
+```
 
 Unfortunately, there is no loading screen for the loading screen (and no loading screen for the loading screen for the loading screen...)
 
