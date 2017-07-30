@@ -27,7 +27,7 @@ The file tree is as such:
 
 ```
 pepperonisandwich.oasis9.net
-├── html				- Webroot
+├── html			- Webroot
 |	├── css
 |	|	└── ...
 |	├── js
@@ -43,7 +43,7 @@ pepperonisandwich.oasis9.net
 		├── load.php	- Loading screen
 		├── home.php	- Homepage
 		├── groups.php	- Grouping example
-		└── 404.php		- ERROR ── Hacking too much time!
+		└── 404.php	- ERROR ── Hacking too much time!
 ```
 
 Unfortunately, there is no loading screen for the loading screen (and no loading screen for the loading screen for the loading screen...)
