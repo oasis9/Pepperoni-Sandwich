@@ -20,7 +20,11 @@ The credentials are, amusingly, hardcoded. They can be defined in html/auth.php
 
 Our aim was to use public transport, accident, traffic, and corridor access data to optimize directions for the driver and the passenger, as well as the environment.
 
-We intended to use Disaggregated Crash Data 2016 (NZTA), Greenhouse Gas Emissions 1990 - 2014 (Statistics NZ), and Public Transport Data 2017(NZTA), however this was not accomplished.
+In a functional environment, the datasets Disaggregated Crash Data 2016 (NZTA), Greenhouse Gas Emissions 1990 - 2014 (Statistics NZ), and Public Transport Data 2017(NZTA) would each have been used to determine the routes to suggest to drivers.
+
+Live APIs such as RAMM's (unavailable publicly currently) would be used to prevent accidents and holdups, increasing traffic flow.
+This would be especially useful in a recovery from a natural disaster, as works are continually ongoing - in Christchurch, for instance.
+Ensuring transport networks are always optimal for travel, where many forms of transport have been unexpectedly decommissioned, is where this software will prove most useful, as well as in a bustling city, where reducing traffic is now the aim.
 
 Other data such as corridor access requests were unavailable due to public inaccessessibility.
 
