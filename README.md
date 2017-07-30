@@ -14,6 +14,8 @@ A demo is available at https://pepperonisandwich.oasis9.net, with default creden
 	Password: pepperoni
 ```
 
+The credentials are, amusingly, hardcoded. They can be defined in html/auth.php
+
 ## Datasets
 
 Our aim was to use public transport, accident, traffic, and corridor access data to optimize directions for the driver and the passenger, as well as the environment.
