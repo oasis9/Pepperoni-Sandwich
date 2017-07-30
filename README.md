@@ -26,7 +26,7 @@ This project runs on PHP, hence the PHP engine is required.
 The file tree is as such:
 
 ```
-pepperonisandwich
+pepperonisandwich.oasis9.net
 ├── html				- Webroot
 |	├── css
 |	|	└── ...
